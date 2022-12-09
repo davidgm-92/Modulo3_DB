@@ -24,4 +24,4 @@ SELECT
 	*
 FROM autobuses
 ORDER BY num_asientos DESC
-LIMIT 1;
+LIMIT 2;
